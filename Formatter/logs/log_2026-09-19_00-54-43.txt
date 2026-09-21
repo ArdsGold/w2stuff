@@ -1,0 +1,8 @@
+Wrote: C:\Users\Arden\Desktop\GitRep\word-tools-WF\Formatter\formatted\Attic Ventilation.docx
+  HeroH1: 'Attic Ventilation in Sterling Heights'
+  HeroP: 2 paragraph(s)
+  Section2Content: 4
+  Section3Content: 6
+  Section4Content: 6
+  Section5Content: 6
+  Section6P: 2 paragraph(s)

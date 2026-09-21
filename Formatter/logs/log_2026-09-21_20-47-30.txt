@@ -1,0 +1,114 @@
+Wrote: C:\Users\Arden\Desktop\GitRep\word-tools-WF\Formatter\formatted\Attic Ventilation.docx
+  HeroH1: 'Attic Ventilation in Sterling Heights'
+  HeroP: 2 paragraph(s)
+  Section2Content: 4
+  Section3Content: 6
+  Section4Content: 6
+  Section5Content: 6
+  Section6P: 2 paragraph(s)
+Wrote: C:\Users\Arden\Desktop\GitRep\word-tools-WF\Formatter\formatted\Commercial Property Roofing.docx
+  HeroH1: 'Commercial Property Roofing in Sterling Heights'
+  HeroP: 1 paragraph(s)
+  Section2Content: 18
+  Section3Content: 6
+  Section4Content: 6
+  Section5Content: 6
+  Section6P: 2 paragraph(s)
+  NOTE: services has 18 items; template has 4 slots; all services H3 titles colored yellow
+Wrote: C:\Users\Arden\Desktop\GitRep\word-tools-WF\Formatter\formatted\Commercial Roof Types.docx
+  HeroH1: 'Commercial Roof Types in Sterling Heights'
+  HeroP: 1 paragraph(s)
+  Section2Content: 8
+  Section3Content: 6
+  Section4Content: 6
+  Section5Content: 6
+  Section6P: 2 paragraph(s)
+  NOTE: services has 8 items; template has 4 slots; all services H3 titles colored yellow
+Wrote: C:\Users\Arden\Desktop\GitRep\word-tools-WF\Formatter\formatted\Commercial Roofing.docx
+  HeroH1: 'Commercial Roofing in Sterling Heights'
+  HeroP: 1 paragraph(s)
+  Section2Content: 25
+  Section3Content: 6
+  Section4Content: 6
+  Section5Content: 6
+  Section6P: 2 paragraph(s)
+  NOTE: services has 25 items; template has 4 slots; all services H3 titles colored yellow
+Wrote: C:\Users\Arden\Desktop\GitRep\word-tools-WF\Formatter\formatted\Gutters_.docx
+  HeroH1: 'Gutters in Sterling Heights'
+  HeroP: 1 paragraph(s)
+  Section2Content: 10
+  Section3Content: 6
+  Section4Content: 6
+  Section5Content: 6
+  Section6P: 2 paragraph(s)
+  NOTE: services has 10 items; template has 4 slots; all services H3 titles colored yellow
+Wrote: C:\Users\Arden\Desktop\GitRep\word-tools-WF\Formatter\formatted\Residential Roof Types.docx
+  HeroH1: 'Residential Roof Types in Sterling Heights'
+  HeroP: 1 paragraph(s)
+  Section2Content: 16
+  Section3Content: 6
+  Section4Content: 6
+  Section5Content: 6
+  Section6P: 2 paragraph(s)
+  NOTE: services has 16 items; template has 4 slots; all services H3 titles colored yellow
+Wrote: C:\Users\Arden\Desktop\GitRep\word-tools-WF\Formatter\formatted\Residential Roofing_.docx
+  HeroH1: 'Residential Roofing in Sterling Heights'
+  HeroP: 1 paragraph(s)
+  Section2Content: 36
+  Section3Content: 6
+  Section4Content: 6
+  Section5Content: 6
+  Section6P: 2 paragraph(s)
+  NOTE: services has 36 items; template has 4 slots; all services H3 titles colored yellow
+Wrote: C:\Users\Arden\Desktop\GitRep\word-tools-WF\Formatter\formatted\Roof Repair.docx
+  HeroH1: 'Roof Repair in Sterling Heights'
+  HeroP: 1 paragraph(s)
+  Section2Content: 11
+  Section3Content: 6
+  Section4Content: 6
+  Section5Content: 6
+  Section6P: 2 paragraph(s)
+  NOTE: services has 11 items; template has 4 slots; all services H3 titles colored yellow
+Wrote: C:\Users\Arden\Desktop\GitRep\word-tools-WF\Formatter\formatted\Roof Ventilation_.docx
+  HeroH1: 'Roof Ventilation Services in Sterling Heights'
+  HeroP: 1 paragraph(s)
+  Section2Content: 5
+  Section3Content: 6
+  Section4Content: 6
+  Section5Content: 6
+  Section6P: 2 paragraph(s)
+  NOTE: services has 5 items; template has 4 slots; all services H3 titles colored yellow
+Wrote: C:\Users\Arden\Desktop\GitRep\word-tools-WF\Formatter\formatted\Siding.docx
+  HeroH1: 'Siding Services in Sterling Heights'
+  HeroP: 1 paragraph(s)
+  Section2Content: 6
+  Section3Content: 6
+  Section4Content: 6
+  Section5Content: 6
+  Section6P: 2 paragraph(s)
+  NOTE: services has 6 items; template has 4 slots; all services H3 titles colored yellow
+Wrote: C:\Users\Arden\Desktop\GitRep\word-tools-WF\Formatter\formatted\Skylights.docx
+  HeroH1: 'Skylights in Sterling Heights'
+  HeroP: 1 paragraph(s)
+  Section2Content: 4
+  Section3Content: 6
+  Section4Content: 6
+  Section5Content: 6
+  Section6P: 2 paragraph(s)
+Wrote: C:\Users\Arden\Desktop\GitRep\word-tools-WF\Formatter\formatted\Soffit & Fascia.docx
+  HeroH1: 'Soffit & Fascia Services in Sterling Heights'
+  HeroP: 1 paragraph(s)
+  Section2Content: 4
+  Section3Content: 6
+  Section4Content: 6
+  Section5Content: 6
+  Section6P: 2 paragraph(s)
+Wrote: C:\Users\Arden\Desktop\GitRep\word-tools-WF\Formatter\formatted\Storm Damage Roofing.docx
+  HeroH1: 'Storm Damage Roofing in Sterling Heights'
+  HeroP: 1 paragraph(s)
+  Section2Content: 8
+  Section3Content: 6
+  Section4Content: 6
+  Section5Content: 6
+  Section6P: 2 paragraph(s)
+  NOTE: services has 8 items; template has 4 slots; all services H3 titles colored yellow
